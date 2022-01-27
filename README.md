@@ -35,7 +35,7 @@ git clone https://github.com/jaimehinojos18/Project1.git
 ### Go to file in file explorer
 ![Alt text](./images/got_to_file.png?raw=true "Title")
 
-### Open Premier League Tracker folder with Intellij 
+### Open Premier League Tracker folder inside Project1 Folder with Intellij 
 ![Alt text](./images/open_with_intellij.png?raw=true "Title")
 ### Edit Project Structure
 ![Alt text](./images/projectstructure.png?raw=true "Title")
