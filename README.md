@@ -26,7 +26,10 @@ To-do list:
 - Premier League top scorers 
 - Favorite team injury list
 - Favorite team upcoming match information
+
+## Getting Started
 ```
 git clone https://github.com/jaimehinojos18/Project1.git
 
 ```
+
