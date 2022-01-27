@@ -19,6 +19,7 @@ The name is Premier League Tracker. With the premier league soccer API, I'll pre
 - View favorite team player statistics
 - Select a new favorite team
 - Change account information or delete account 
+
 To-do list:
 - Premier League top scorers 
 - Favorite team injury list
