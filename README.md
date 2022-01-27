@@ -31,6 +31,7 @@ To-do list:
 ```
 git clone https://github.com/jaimehinojos18/Project1.git
 ```
+![Alt text](images/git_clone.jpg?raw=true "Title")
 
 ## Usage
 
