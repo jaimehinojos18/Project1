@@ -32,11 +32,11 @@ To-do list:
 git clone https://github.com/jaimehinojos18/Project1.git
 ```
 ![Alt text](./images/git_clone.png?raw=true "Title")
-- Go to file in file explorer
+### Go to file in file explorer
 ![Alt text](./images/got_to_file.png?raw=true "Title")
 
 
-- Open Premier League Tracker folder with Intellij 
+### Open Premier League Tracker folder with Intellij 
 ![Alt text](./images/open_with_intellij.png?raw=true "Title")
 
 ## Usage
