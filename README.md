@@ -44,5 +44,13 @@ git clone https://github.com/jaimehinojos18/Project1.git
 ### Go to home file inside the src folder
 ![Alt text](./images/play.png?raw=true "Title")
 ## Usage
-
+- Click the play button in the main function inside the home file
+- Sign in or Create a new account
+- If you create a new account, once you get account created successfully go to login and enter your credentials
+- If you don't have a favorite team selected you will be prompt to select a new one
+- Main menu will appear
+- Use numbers to navigate through menu 
+- Use m to manage your account
+- Use s to sign out
+## Enjoy!
 
