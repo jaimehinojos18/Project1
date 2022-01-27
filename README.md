@@ -51,6 +51,6 @@ git clone https://github.com/jaimehinojos18/Project1.git
 - Main menu will appear
 - Use numbers to navigate through menu 
 - Use m to manage your account
-- Use s to sign out
+- Use q to sign out
 ## Enjoy!
 
