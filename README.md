@@ -10,6 +10,8 @@ The name is Premier League Tracker. With the premier league soccer API, I'll pre
 - Scala 2.11 (or 2.12)
 - Hive
 - Git + GitHub
+- Spark
+- Spark SQL
 ## Features
 - Sign in or Create Account
 - Select favorite team to track
