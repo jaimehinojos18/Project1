@@ -19,10 +19,7 @@ The name is Premier League Tracker. With the premier league soccer API, I'll pre
 - View favorite team player statistics
 - Select a new favorite team
 - Change account information or delete account 
-### Questions to be answered
-- Who is qualified for Champions League and Europa League as of now?
-- What is the user's favorite team league table position?
-- What is the user's favorite team statistics?
-What is the user's favorite team statistics?
-How does the user's favorite team compare with other teams?
-Are there any players out of the squad due to injury?
+To-do list:
+- Premier League top scorers 
+- Favorite team injury list
+- Favorite team upcoming match information
