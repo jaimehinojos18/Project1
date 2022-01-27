@@ -52,5 +52,5 @@ git clone https://github.com/jaimehinojos18/Project1.git
 - Use numbers to navigate through menu 
 - Use m to manage your account
 - Use q to sign out
-## Enjoy!
+### Enjoy!
 
