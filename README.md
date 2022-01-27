@@ -35,10 +35,14 @@ git clone https://github.com/jaimehinojos18/Project1.git
 ### Go to file in file explorer
 ![Alt text](./images/got_to_file.png?raw=true "Title")
 
-
 ### Open Premier League Tracker folder with Intellij 
 ![Alt text](./images/open_with_intellij.png?raw=true "Title")
-
+### Edit Project Structure
+![Alt text](./images/projectstructure.png?raw=true "Title")
+### Edit Project SDK
+![Alt text](./images/sdk.png?raw=true "Title")
+### Go to home file inside the src folder
+![Alt text](./images/play.png?raw=true "Title")
 ## Usage
 
 
