@@ -27,5 +27,6 @@ To-do list:
 - Favorite team injury list
 - Favorite team upcoming match information
 ```
-code
+git clone https://github.com/jaimehinojos18/Project1.git
+
 ```
