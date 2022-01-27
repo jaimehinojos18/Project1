@@ -30,6 +30,8 @@ To-do list:
 ## Getting Started
 ```
 git clone https://github.com/jaimehinojos18/Project1.git
-
 ```
+
+## Usage
+
 
